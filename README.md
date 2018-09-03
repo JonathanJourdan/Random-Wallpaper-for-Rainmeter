@@ -12,3 +12,6 @@ In the menu you can change :
    - Background update (how many seconds the wallpaper change)
    - Opacity of the menu icon
    - Next Background button
+
+# Preview :
+![alt text](https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter/picture.png)
