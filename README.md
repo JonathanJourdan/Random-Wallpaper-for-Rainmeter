@@ -1,4 +1,4 @@
-# Random-Wallpaper-for-Rainmeter
+# Random-Wallpaper-Skin-for-Rainmeter
 Skin for Rainmeter apps (https://www.rainmeter.net/)
 
 Skin to change your desktop background randomly !
