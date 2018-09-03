@@ -5,6 +5,8 @@ Skin to change your desktop background randomly !
 
 This skin use unsplash api to get pictures : https://unsplash.com/
 
+ps: After download "Picture1.PNG" and "picture2.PNG" can be deleted in the root folder
+
 # Menu :
 In the menu you can change :
    - Background categorie
