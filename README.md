@@ -14,4 +14,4 @@ In the menu you can change :
    - Next Background button
 
 # Preview :
-![alt text](https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter/Icones/Picture1.PNG)
+![alt text](https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter/Picture1.PNG)
