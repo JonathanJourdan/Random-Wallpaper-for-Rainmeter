@@ -1,7 +1,7 @@
 # Random-Wallpaper-for-Rainmeter
 Skin for Rainmeter apps (https://www.rainmeter.net/)
 
-Skin to change your desktop background randmly !
+Skin to change your desktop background randomly !
 
 This skin use unsplash api to get pictures : https://unsplash.com/
 
