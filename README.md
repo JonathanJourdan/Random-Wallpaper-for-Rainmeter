@@ -3,7 +3,7 @@ Skin for Rainmeter apps (https://www.rainmeter.net/)
 
 Skin to change your desktop background randmly !
 
-This skin use unsplash api to get picture : https://unsplash.com/
+This skin use unsplash api to get pictures : https://unsplash.com/
 
 # Menu :
 In the menu you can change :
