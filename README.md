@@ -15,3 +15,4 @@ In the menu you can change :
 
 # Preview :
 ![alt text](https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter/blob/master/Picture1.PNG)
+![alt text](https://github.com/JonathanJourdan/Random-Wallpaper-for-Rainmeter/blob/master/picture2.PNG)
